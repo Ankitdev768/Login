@@ -13,13 +13,14 @@ import {
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD0X73UpvWPmPAAL5DpOnAPWBlRkqSRshI",
-  authDomain: "the-sensors.firebaseapp.com",
-  projectId: "the-sensors",
-  storageBucket: "the-sensors.firebasestorage.app",
-  messagingSenderId: "946341744013",
-  appId: "1:946341744013:web:afae9d11402f786ff6c1c4",
-  measurementId: "G-8TJN6EB6K1",
+ apiKey: "AIzaSyDhJHtbtV8W_5Mvd2v8FQtLm-EtYEY46Ao",
+  authDomain: "ankit-portfolio-6d9af.firebaseapp.com",
+  databaseURL: "https://ankit-portfolio-6d9af-default-rtdb.firebaseio.com",
+  projectId: "ankit-portfolio-6d9af",
+  storageBucket: "ankit-portfolio-6d9af.firebasestorage.app",
+  messagingSenderId: "716242981018",
+  appId: "1:716242981018:web:1b49df81c33b275f570f23",
+  measurementId: "G-JBDQPMG8FJ"
 };
 
 // Initialize Firebase
